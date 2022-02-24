@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brooksseahorn
 - 💻 ...currently learning Rust
-- 🚧 ...building content for AWS Administrators
+- 🚧 ...building content cloud content for INE
 
 <!---
 brooksseahorn/brooksseahorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
