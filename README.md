@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brooksseahorn
-- Resume right here [Brooks Seahorn Resume](https://github.com/brooksseahorn/brooksseahorn/blob/main/Resume%20-%20Brooks%20Seahorn.pdf)
+- 📄 [Brooks Seahorn Resume](https://github.com/brooksseahorn/brooksseahorn/blob/main/Resume%20-%20Brooks%20Seahorn.pdf)
 - 💻 ...building Rust apps for AWS Lambda (and no frameworks!!!)
 - 🚧 ...building content for The Cloud Bomb
 - 🎸 ...playing [Ibanez guitars and basses](https://www.ibanez.com/usa/)
