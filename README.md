@@ -12,18 +12,3 @@
 brooksseahorn/brooksseahorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- My grandkiddos links:
-
-HISTORY CHAPTERS
-
-[William Penn](https://kahoot.it/challenge/05985611?challenge-id=284fda72-d864-4661-b3d1-6967fe6a66ac_1693603328087)
-
-[David Brainerd](https://kahoot.it/challenge/02490134?challenge-id=284fda72-d864-4661-b3d1-6967fe6a66ac_1693603688721)
-
-[Benjamin Franklin](https://kahoot.it/challenge/05861833?challenge-id=284fda72-d864-4661-b3d1-6967fe6a66ac_1693603487792)
-
-[Paul Revere](https://kahoot.it/challenge/04611749?challenge-id=284fda72-d864-4661-b3d1-6967fe6a66ac_1693603417104)
-
-
-SCIENCE CHAPTER
-[Exploring the Earth's Atmosphere](https://kahoot.it/challenge/04644225?challenge-id=284fda72-d864-4661-b3d1-6967fe6a66ac_1693603167611)
